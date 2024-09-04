@@ -1,0 +1,4 @@
+# Hosts for pinger
+google.com
+iPing.pl
+8.8.8.8

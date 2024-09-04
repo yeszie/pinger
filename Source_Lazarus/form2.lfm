@@ -1,0 +1,34 @@
+object Form2: TForm2
+  Left = 1036
+  Height = 144
+  Top = 397
+  Width = 168
+  Caption = 'Form2'
+  ClientHeight = 144
+  ClientWidth = 168
+  LCLVersion = '3.2.0.0'
+  object Label1: TLabel
+    Left = 32
+    Height = 15
+    Top = 40
+    Width = 34
+    Caption = 'Pinger'
+    OnClick = Label1Click
+  end
+  object Label2: TLabel
+    Left = 32
+    Height = 15
+    Top = 96
+    Width = 40
+    Caption = 'iPing.pl'
+    OnClick = Label1Click
+  end
+  object Label3: TLabel
+    Left = 32
+    Height = 15
+    Top = 72
+    Width = 105
+    Caption = 'ver.: 1.0 - 11.05.2024'
+    OnClick = Label1Click
+  end
+end
